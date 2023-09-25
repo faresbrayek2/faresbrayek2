@@ -4,11 +4,6 @@
 
 ###
 
-<div align="center">
-  <img  href="https://linkedin.com/in/fares-brayek" src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
-
-###
 
 <h1 align="center">Hi 👋, I'm fares</h1>
 <h3 align="center">A passionate frontend developer from tunisia</h3>
